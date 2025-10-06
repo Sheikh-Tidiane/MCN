@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "collections": "Collections",
+    "visit": "Visit",
+    "shop": "Shop",
+    "tickets": "Tickets",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search"
+  },
+  "hero": {
+    "title": "Museum of Black Civilizations",
+    "subtitle": "Discover the history and culture of black civilizations",
+    "cta": "Discover",
+    "scan": "Scan QR Code"
+  },
+  "collections": {
+    "title": "Our Collections",
+    "subtitle": "Explore our exceptional works of art",
+    "viewAll": "View all works",
+    "filter": "Filter by",
+    "search": "Search for a work"
+  },
+  "oeuvre": {
+    "title": "Title",
+    "artist": "Artist",
+    "period": "Period",
+    "description": "Description",
+    "audioGuide": "Audio guide",
+    "video": "Video",
+    "addToFavorites": "Add to favorites",
+    "share": "Share",
+    "back": "Back"
+  },
+  "visit": {
+    "title": "Plan your visit",
+    "hours": "Hours",
+    "tickets": "Tickets",
+    "guidedTour": "Guided tour",
+    "audioGuide": "Audio guide",
+    "accessibility": "Accessibility"
+  },
+  "shop": {
+    "title": "Museum shop",
+    "categories": "Categories",
+    "new": "New",
+    "bestsellers": "Bestsellers",
+    "promotions": "Promotions",
+    "addToCart": "Add to cart",
+    "buyNow": "Buy now"
+  },
+  "tickets": {
+    "title": "Book your tickets",
+    "selectDate": "Select a date",
+    "selectTime": "Select a time",
+    "adults": "Adults",
+    "children": "Children",
+    "students": "Students",
+    "seniors": "Seniors",
+    "total": "Total",
+    "book": "Book"
+  },
+  "calendar": {
+    "choose_date": "Choose your date",
+    "closed": "Closed",
+    "event": "Event",
+    "loading": "Loading calendar…"
+  },
+  "tariffs": {
+    "title": "Ticket type",
+    "see_conditions": "See conditions",
+    "proof": "Proof"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "language": "Language"
+  }
+}

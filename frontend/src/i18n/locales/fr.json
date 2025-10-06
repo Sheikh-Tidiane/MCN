@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "collections": "Collections",
+    "visit": "Visiter",
+    "shop": "Boutique",
+    "tickets": "Billets",
+    "about": "À propos",
+    "contact": "Contact",
+    "search": "Rechercher"
+  },
+  "hero": {
+    "title": "Musée des Civilisations Noires",
+    "subtitle": "Découvrez l'histoire et la culture des civilisations noires",
+    "cta": "Découvrir",
+    "scan": "Scanner QR Code"
+  },
+  "collections": {
+    "title": "Nos Collections",
+    "subtitle": "Explorez nos œuvres d'art exceptionnelles",
+    "viewAll": "Voir toutes les œuvres",
+    "filter": "Filtrer par",
+    "search": "Rechercher une œuvre"
+  },
+  "oeuvre": {
+    "title": "Titre",
+    "artist": "Artiste",
+    "period": "Période",
+    "description": "Description",
+    "audioGuide": "Guide audio",
+    "video": "Vidéo",
+    "addToFavorites": "Ajouter aux favoris",
+    "share": "Partager",
+    "back": "Retour"
+  },
+  "visit": {
+    "title": "Planifiez votre visite",
+    "hours": "Horaires",
+    "tickets": "Billets",
+    "guidedTour": "Visite guidée",
+    "audioGuide": "Guide audio",
+    "accessibility": "Accessibilité"
+  },
+  "shop": {
+    "title": "Boutique du musée",
+    "categories": "Catégories",
+    "new": "Nouveautés",
+    "bestsellers": "Bestsellers",
+    "promotions": "Promotions",
+    "addToCart": "Ajouter au panier",
+    "buyNow": "Acheter maintenant"
+  },
+  "tickets": {
+    "title": "Réservez vos billets",
+    "selectDate": "Sélectionner une date",
+    "selectTime": "Sélectionner un horaire",
+    "adults": "Adultes",
+    "children": "Enfants",
+    "students": "Étudiants",
+    "seniors": "Seniors",
+    "total": "Total",
+    "book": "Réserver"
+  },
+  "calendar": {
+    "choose_date": "Choisissez votre date",
+    "closed": "Fermé",
+    "event": "Événement",
+    "loading": "Chargement du calendrier…"
+  },
+  "tariffs": {
+    "title": "Type de billet",
+    "see_conditions": "Voir conditions",
+    "proof": "Preuve"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "language": "Langue"
+  }
+}

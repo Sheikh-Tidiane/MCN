@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Kër",
+    "collections": "Jëf",
+    "visit": "Jënd",
+    "shop": "Dëkk",
+    "tickets": "Billets",
+    "about": "Ci la",
+    "contact": "Jënd",
+    "search": "Seet"
+  },
+  "hero": {
+    "title": "Musée des Civilisations Noires",
+    "subtitle": "Gëstu ci xam-xam ak aada ci xeet yu ñuul",
+    "cta": "Gëstu",
+    "scan": "Seet QR Code"
+  },
+  "collections": {
+    "title": "Sunu Jëf",
+    "subtitle": "Gëstu ci sunu jëf yu rafet",
+    "viewAll": "Gis jëf yépp",
+    "filter": "Seet ci",
+    "search": "Seet jëf"
+  },
+  "oeuvre": {
+    "title": "Tur",
+    "artist": "Jëfkat",
+    "period": "Jëmm",
+    "description": "Tëral",
+    "audioGuide": "Jëfandikoo bu audio",
+    "video": "Video",
+    "addToFavorites": "Yon ci mbind",
+    "share": "Jënd",
+    "back": "Dex"
+  },
+  "visit": {
+    "title": "Tëral sa jënd",
+    "hours": "Waktu",
+    "tickets": "Billets",
+    "guidedTour": "Jënd bu jëfandikoo",
+    "audioGuide": "Jëfandikoo bu audio",
+    "accessibility": "Jënd"
+  },
+  "shop": {
+    "title": "Dëkk bi ci musée",
+    "categories": "Jëmm",
+    "new": "Mees",
+    "bestsellers": "Yu rafet",
+    "promotions": "Jëf yu rafet",
+    "addToCart": "Yon ci panier",
+    "buyNow": "Jënd léegi"
+  },
+  "tickets": {
+    "title": "Tëral sa billets",
+    "selectDate": "Tëral fan",
+    "selectTime": "Tëral waktu",
+    "adults": "Mag",
+    "children": "Xale",
+    "students": "Jàngalekat",
+    "seniors": "Mag yu mag",
+    "total": "Jotal",
+    "book": "Tëral"
+  },
+  "calendar": {
+    "choose_date": "Falal sa bes",
+    "closed": "Tëj na",
+    "event": "Evenement",
+    "loading": "Mi ngi yëngëtu kalendaar…"
+  },
+  "tariffs": {
+    "title": "Mbiri tiket",
+    "see_conditions": "Gis njàqare yi",
+    "proof": "Dëggal"
+  },
+  "common": {
+    "loading": "Jëf...",
+    "error": "Jëf bu bon",
+    "retry": "Jëfaat",
+    "close": "Ubb",
+    "save": "Yon",
+    "cancel": "Ubb",
+    "confirm": "Jëf",
+    "language": "Kàllaama"
+  }
+}
